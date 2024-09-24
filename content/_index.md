@@ -34,7 +34,7 @@ feature:
     content: "We provide 24*7 job support for long running projects."
   - name: "Get Started "
     icon: "/images/get_start_icon.webp"
-    content: "Ready to initiate your transformation journey? Talk to us."
+    content: "Ready to initiate your transformation journey? Talk to us"
 
 # services
 services:
